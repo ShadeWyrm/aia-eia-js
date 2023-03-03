@@ -990,12 +990,12 @@
                             "type": "radiogroup",
                             "name": "riskProfile4",
                             "title": {
-                                "default": "Will this project have major impacts on staff, either in terms of their numbers or their roles?",
-                                "fr": "Ce projet aura-t-il d'importantes répercussions sur le personnel, que ce soit en termes de nombre ou de rôle?"
+                                "default": "Does your program or activity involve a decision about an identifiable individual?",
+                                "fr": "(to come)"
                             },
                             "choices": [
                                 {
-                                    "value": "item1-3",
+                                    "value": "item1-4",
                                     "text": {
                                         "default": "Yes",
                                         "fr": "Oui"
