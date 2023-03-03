@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pia-test/404.html"
   },
   {
-    "revision": "b400468959ea4288f73c",
+    "revision": "1a7263367c76619edd51",
     "url": "/pia-test/css/app.aa35b300.css"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pia-test/helper/wet.js"
   },
   {
-    "revision": "7a107ed971a283934c04d554b47f38d7",
+    "revision": "feccb1bdb6c40860feb3e77dd976bf0f",
     "url": "/pia-test/index.html"
   },
   {
-    "revision": "b400468959ea4288f73c",
-    "url": "/pia-test/js/app.61df0ad6.js"
+    "revision": "1a7263367c76619edd51",
+    "url": "/pia-test/js/app.a61f284d.js"
   },
   {
     "revision": "4c2aaba01dd0d5051c0d",
